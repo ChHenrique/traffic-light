@@ -1,5 +1,5 @@
 {
-  "name": "traffic-light",
+  "name": "traffic_light",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
